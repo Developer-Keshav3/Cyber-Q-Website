@@ -1,1 +1,1 @@
-# Cyber-Q-Website
+# CyberQ-Website
